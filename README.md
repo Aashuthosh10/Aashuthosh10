@@ -6,11 +6,10 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aashuthosh)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anaashuthosh.23ds@saividya.ac.in)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Aashuthosh10)
 
 ### 👨‍💻 About Me
 
-I'm a Computer Science Engineering student specializing in Data Science, passionate about problem-solving and building efficient software solutions. I enjoy working on projects that challenge my understanding of algorithms, data structures, and software development principles.
+I'm a Computer Science Engineering student specializing in Data Science at Sai Vidya Institute Of Technology, passionate about problem-solving and building efficient software solutions. I enjoy working on projects that challenge my understanding of algorithms, data structures, and software development principles.
 
 - 🔭 **Education:** 10th-12th: Kendriya Vidyalaya CRPF | UG: Sai Vidya Institute of Technology - B.E CSE (Data Science)
 - 🌱 **Currently learning:** Data Structures, ADA (Analysis and Design of Algorithms), Python, C, Java Development
@@ -53,7 +52,7 @@ I'm a Computer Science Engineering student specializing in Data Science, passion
 
 #### 🧠 SmartTalk (NextMind)
 
-**Repository**: [GitHub - SmartTalk_NextMind](https://github.com/Aashuthosh10/SmartTalk_NextMind) | **Video Demo**: [YouTube Demo](https://youtu.be/your-demo-link) | **Live Demo**: [Try it here](https://your-live-demo-link.vercel.app/)
+**Repository**: [GitHub - SmartTalk_NextMind](https://github.com/Aashuthosh10/SmartTalk_NextMind) | **Live Demo**: [Try it here](https://your-live-demo-link.vercel.app/)
 
 **SmartTalk** - AI-integrated, real-time conversational container enhancing the NextTalk experience within the Nextcloud ecosystem. Combines smooth UI transitions, dynamic responsiveness, and real-time message synchronization. Key features:
 
@@ -68,7 +67,7 @@ I'm a Computer Science Engineering student specializing in Data Science, passion
 
 Various data analysis and machine learning projects showcasing problem-solving with Python.
 
-### 📊 My Activitiez
+### 📊 My Activities
 
 🔥 **65+ contributions** in the last year  
 ⭐ **Actively maintaining** and updating projects  
